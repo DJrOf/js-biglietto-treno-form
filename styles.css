@@ -1,0 +1,28 @@
+/* Utilities */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    padding: 50px;
+}
+
+.container {
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+.mb-3 {
+    width: 100%;
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+hr {
+    margin: 100px auto;
+}
